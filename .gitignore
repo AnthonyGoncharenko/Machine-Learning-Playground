@@ -1,0 +1,9 @@
+*.pdf
+*.html
+*.zip
+*.tex
+*.png
+
+
+!*Doc.pdf
+!*Code.pdf
